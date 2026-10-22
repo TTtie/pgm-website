@@ -1,0 +1,14 @@
+src/pages/downloads/index.js
+  h_a954843f2693a3 39,54,57,123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3a18dad0eabcbc63e40d4673a186a8cb698adaeb",
+  "prompts": {},
+  "humans": {
+    "h_a954843f2693a3": {
+      "author": "TTtie <me@tttie.cz>"
+    }
+  }
+}
